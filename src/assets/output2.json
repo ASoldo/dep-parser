@@ -1,0 +1,51 @@
+{
+    "version": "0.1.0",
+    "name": "dep-parser",
+    "dependencies": {
+      "@babel/core": {
+        "version": "7.17.12",
+        "resolved": "https://registry.npmjs.org/@babel/core/-/core-7.17.12.tgz"
+      },
+      "@babel/eslint-parser": {
+        "version": "7.17.0",
+        "resolved": "https://registry.npmjs.org/@babel/eslint-parser/-/eslint-parser-7.17.0.tgz"
+      },
+      "@vue/cli-plugin-babel": {
+        "version": "5.0.4",
+        "resolved": "https://registry.npmjs.org/@vue/cli-plugin-babel/-/cli-plugin-babel-5.0.4.tgz"
+      },
+      "@vue/cli-plugin-eslint": {
+        "version": "5.0.4",
+        "resolved": "https://registry.npmjs.org/@vue/cli-plugin-eslint/-/cli-plugin-eslint-5.0.4.tgz"
+      },
+      "@vue/cli-service": {
+        "version": "5.0.4",
+        "resolved": "https://registry.npmjs.org/@vue/cli-service/-/cli-service-5.0.4.tgz"
+      },
+      "core-js": {
+        "version": "3.22.5",
+        "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.22.5.tgz"
+      },
+      "eslint-plugin-vue": {
+        "version": "8.7.1",
+        "resolved": "https://registry.npmjs.org/eslint-plugin-vue/-/eslint-plugin-vue-8.7.1.tgz"
+      },
+      "eslint": {
+        "version": "7.32.0",
+        "resolved": "https://registry.npmjs.org/eslint/-/eslint-7.32.0.tgz"
+      },
+      "vue-json-to-csv": {
+        "version": "1.1.8",
+        "resolved": "https://registry.npmjs.org/vue-json-to-csv/-/vue-json-to-csv-1.1.8.tgz"
+      },
+      "vue-template-compiler": {
+        "version": "2.6.14",
+        "resolved": "https://registry.npmjs.org/vue-template-compiler/-/vue-template-compiler-2.6.14.tgz"
+      },
+      "vue": {
+        "version": "2.6.14",
+        "resolved": "https://registry.npmjs.org/vue/-/vue-2.6.14.tgz"
+      }
+    }
+  }
+  
